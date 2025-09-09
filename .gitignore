@@ -1,0 +1,5 @@
+# keep junk out of the repo
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.virtual_documents/
